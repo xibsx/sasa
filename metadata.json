@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Bot Yöneticisi",
+  "description": "WhatsApp bot istemcilerini yönetmek, QR kod ile yeni istemciler eklemek ve bağlı istemcileri izlemek için bir kontrol paneli.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
